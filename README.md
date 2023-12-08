@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hello !<br>👩‍💻 I'm Hafawa, a passionate developer living in France<br>🌱 currently exploring the C# language<br>🤝 looking for an apprenticeship in web development.<br>👩‍🍳Beyond coding, I enjoy the art of culinary creation, bringing the same level of precision and creativity to both code and kitchen.
 
 - 📫 How to reach me **hafewa.bargaoui@gmail.com**
